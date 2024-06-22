@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dulvanya</h1>
-<h3 align="center">Undergraduate BSc(Honours) in Software Enineering</h3>
+<h3 align="center">Undergraduate BSc(Honours) in Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulvanya&label=Profile%20views&color=0e75b6&style=flat" alt="dulvanya" /> </p>
 
