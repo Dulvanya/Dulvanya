@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Dulvanya</h1>
 <h3 align="center">Undergraduate BSc(Honours) in Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/53bbded0cd52cfb76da9566070365f68c901c7580221db748af6c44897de057b/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032342f3835382f3639392f6f726967696e616c2f706978656c2d6a6566662d6469766f6f6d2e6769663f31353833373731393034"
