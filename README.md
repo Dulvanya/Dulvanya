@@ -26,11 +26,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulvanya&show_icons=true&locale=en&layout=compact" alt="dulvanya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulvanya&show_icons=true&locale=en" alt="dulvanya" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dulvanya&show_icons=true&locale=en" alt="dulvanya" /></p>
 
 
 <p align=center>
  <a href="http://github-readme-streak-stats.herokuapp.com">
-     <img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=Methexx&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+     <img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=dulvanya&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
  </a>
  </p>
