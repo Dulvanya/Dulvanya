@@ -31,4 +31,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dulvanya&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dulvanya&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
