@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thanuxz/Thanuxz/main/banner.png" alt="Thanuka Rathnayake Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Dulvanya/Dulvanya/main/banner.jpg" alt="Dulvanyas' Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#4c8ed9">Dulvanya</span></h1>
