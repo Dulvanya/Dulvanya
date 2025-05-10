@@ -1,4 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thanuxz/Thanuxz/main/banner.png" alt="Thanuka Rathnayake Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#4c8ed9">Dulvanya</span></h1>
 <h3 align="center">✨ Undergraduate | BSc (Hons) in Software Engineering ✨</h3>
